@@ -1,2 +1,2 @@
 # soportecnic
-Proyecto web de servicios.
+Landing page de Próximamente 
